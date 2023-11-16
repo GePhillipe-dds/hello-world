@@ -1,1 +1,1 @@
-# hello-world
+arquivo com extensão .md, converte texto em um HTML válido
